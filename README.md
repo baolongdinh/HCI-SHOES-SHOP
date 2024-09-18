@@ -1,6 +1,4 @@
-# Project Demo
-
-Coming Soon
+# EC SHOES SHOP
 
 ## Getting Started
 
